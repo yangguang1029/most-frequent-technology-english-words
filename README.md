@@ -48,6 +48,7 @@
 |    complexity    |   noun    |         复杂性         |      |    `[kəmˈpleksəti]` [🔈](https://www.google.com/search?q=how+to+pronounce+complexity)    |
 |    compliance    |   noun    |          合规          |      |    `[kəmˈplaɪəns]` [🔈](https://www.google.com/search?q=how+to+pronounce+compliance)    |
 |  comprehensive   | adjective |         综合的         |      |  `[ˌkɑːmprɪˈhensɪv]` [🔈](https://www.google.com/search?q=how+to+pronounce+comprehensive)   |
+|    comprise      | verb      |         由…组成        |      |    ` [kəm'praɪz]` [🔈](https://www.google.com/search?q=how+to+pronounce+comprise)    |
 |    compromise    | adjective |          泄漏          |      |    `[ˈkɑːmprəmaɪz]` [🔈](https://www.google.com/search?q=how+to+pronounce+compromise)    |
 |   concatenate    |   verb    |          连接          |      |   `[kɑn'kætəˌnet]` [🔈](https://www.google.com/search?q=how+to+pronounce+concatenate)    |
 |     concrete     | adjective |     具体的、有形的     |      |     `[ˈkɑːŋkriːt]` [🔈](https://www.google.com/search?q=how+to+pronounce+concrete)     |
@@ -74,6 +75,7 @@
 |     explicit     | adjective |       明确清楚的       |      |     `[ɪkˈsplɪsɪt]` [🔈](https://www.google.com/search?q=how+to+pronounce+explicit)     |
 |     failover     |   noun    |        故障切换        |      |     `[feil'əuvər]` [🔈](https://www.google.com/search?q=how+to+pronounce+failover)     |
 |    federation    |   noun    |        联合授权        |      |    `[ˌfedəˈreɪʃn]` [🔈](https://www.google.com/search?q=how+to+pronounce+federation)    |
+|     grammer     | noun |         语法        |      |     `['græmɚ]` [🔈](https://www.google.com/search?q=how+to+pronounce+grammer)     |
 |     granular     | adjective |         颗粒的         |      |     `[ˈɡrænjələr]` [🔈](https://www.google.com/search?q=how+to+pronounce+granular)     |
 |   hierarchical   | adjective |         分层的         |      |   `[ˌhaɪəˈrɑːrkɪkl]` [🔈](https://www.google.com/search?q=how+to+pronounce+hierarchical)   |
 |    hypervisor    |   noun    | 虚拟机器监视器（VMM）  |      |    `[ˌhaipə'vaizə]` [🔈](https://www.google.com/search?q=how+to+pronounce+hypervisor)    |
@@ -85,6 +87,7 @@
 |    initiatives    |   noun    |       方案、倡议       |      |    `[ɪˈnɪʃətɪvz]` [🔈](https://www.google.com/search?q=how+to+pronounce+inititives)    |
 |   integration    |   noun    |          集成          |      |   `[ˌɪntɪˈɡreɪʃn]` [🔈](https://www.google.com/search?q=how+to+pronounce+integration)    |
 |    integrity     |   noun    |         完整性         |      |    `[ɪnˈteɡrəti]` [🔈](https://www.google.com/search?q=how+to+pronounce+integrity)     |
+|    interact     |   verb    |         互相影响         |      |    ` [,ɪntɚ'ækt]` [🔈](https://www.google.com/search?q=how+to+pronounce+interact)     |
 |    intrusive     | adjective |        侵入式的        |      |    `[ɪnˈtruːsɪv]` [🔈](https://www.google.com/search?q=how+to+pronounce+intrusive)     |
 |    intuitive     | adjective |         直觉的         |      |    `[ɪnˈtuːɪtɪv]` [🔈](https://www.google.com/search?q=how+to+pronounce+intuitive)     |
 |     latency      |   noun    |          延迟          |      |     `['letnsi]` [🔈](https://www.google.com/search?q=how+to+pronounce+latency)      |
@@ -133,6 +136,7 @@
 |    subsidiary    |   noun    |         子公司         |      |    `[səbˈsɪdieri]` [🔈](https://www.google.com/search?q=how+to+pronounce+subsidiary)    |
 |   sustainable    | adjective |        可持续的        |      |   `[səˈsteɪnəbl]` [🔈](https://www.google.com/search?q=how+to+pronounce+sustainable)    |
 |   synchronous    | adjective |         同步的         |      |   `[ˈsɪŋkrənəs]` [🔈](https://www.google.com/search?q=how+to+pronounce+synchronous)    |
+|   syntax    | noun |         语法；句法         |      |   `['sɪntæks]` [🔈](https://www.google.com/search?q=how+to+pronounce+syntax)    |
 |     takeaway     |   noun    |     收获、学到什么     |      |     `[ˈteɪkəweɪ]` [🔈](https://www.google.com/search?q=how+to+pronounce+takeaway)     |
 |    threshold     |   noun    |          阈值          |      |    `[ˈθreʃhoʊld]` [🔈](https://www.google.com/search?q=how+to+pronounce+threshold)     |
 |     thrilled     | adjective |       非常兴奋的       |      |     `[θrɪld]` [🔈](https://www.google.com/search?q=how+to+pronounce+thrilled)     |
